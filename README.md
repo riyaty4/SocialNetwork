@@ -1,6 +1,6 @@
 # social_app
 
-A new Flutter project.
+Social network using flutter and firebase.
 
 ## Getting Started
 
